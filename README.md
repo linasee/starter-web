@@ -11,3 +11,7 @@ Sample introduction
 ## Deployment
 
 ## How to To Contribute
+
+###Copyright
+
+2017 Git.Training.
